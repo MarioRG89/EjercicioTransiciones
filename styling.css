@@ -33,7 +33,7 @@ input[type="submit"]{
     color:white;
 }
 input[type="text"]{
-    background-image: url(images\search.png) ;
+    background-image: url(images/search.png) ;
     background-repeat: no-repeat;
     background-position: right;   
 }
